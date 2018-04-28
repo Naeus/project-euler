@@ -1,0 +1,8 @@
+D:\Users\username\Documents\project-euler\Problem-1_Multiples-of-3-and-5\Problem-1_Multiples-of-3-and-5\bin\Debug\netcoreapp2.0\Problem-1_Multiples-of-3-and-5.deps.json
+D:\Users\username\Documents\project-euler\Problem-1_Multiples-of-3-and-5\Problem-1_Multiples-of-3-and-5\bin\Debug\netcoreapp2.0\Problem-1_Multiples-of-3-and-5.runtimeconfig.json
+D:\Users\username\Documents\project-euler\Problem-1_Multiples-of-3-and-5\Problem-1_Multiples-of-3-and-5\bin\Debug\netcoreapp2.0\Problem-1_Multiples-of-3-and-5.runtimeconfig.dev.json
+D:\Users\username\Documents\project-euler\Problem-1_Multiples-of-3-and-5\Problem-1_Multiples-of-3-and-5\bin\Debug\netcoreapp2.0\Problem-1_Multiples-of-3-and-5.dll
+D:\Users\username\Documents\project-euler\Problem-1_Multiples-of-3-and-5\Problem-1_Multiples-of-3-and-5\bin\Debug\netcoreapp2.0\Problem-1_Multiples-of-3-and-5.pdb
+D:\Users\username\Documents\project-euler\Problem-1_Multiples-of-3-and-5\Problem-1_Multiples-of-3-and-5\obj\Debug\netcoreapp2.0\Problem-1_Multiples-of-3-and-5.fsprojResolveAssemblyReference.cache
+D:\Users\username\Documents\project-euler\Problem-1_Multiples-of-3-and-5\Problem-1_Multiples-of-3-and-5\obj\Debug\netcoreapp2.0\Problem-1_Multiples-of-3-and-5.dll
+D:\Users\username\Documents\project-euler\Problem-1_Multiples-of-3-and-5\Problem-1_Multiples-of-3-and-5\obj\Debug\netcoreapp2.0\Problem-1_Multiples-of-3-and-5.pdb
