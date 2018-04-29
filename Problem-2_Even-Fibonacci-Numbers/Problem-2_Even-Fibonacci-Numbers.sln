@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27428.2043
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{F2A71F9B-5D33-465A-A702-920D77279786}") = "Problem-2_Even-Fibonacci-Numbers", "Problem-2_Even-Fibonacci-Numbers\Problem-2_Even-Fibonacci-Numbers.fsproj", "{37F2378C-96A3-42DB-8A73-E3A35929B43D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{37F2378C-96A3-42DB-8A73-E3A35929B43D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{37F2378C-96A3-42DB-8A73-E3A35929B43D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{37F2378C-96A3-42DB-8A73-E3A35929B43D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{37F2378C-96A3-42DB-8A73-E3A35929B43D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {0F21CE62-9ACE-42F9-85CA-7F4AF90FABD2}
+	EndGlobalSection
+EndGlobal
